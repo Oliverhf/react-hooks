@@ -1,15 +1,25 @@
-import './App.css';
+import "./App.css";
 
-import { UseStateEx, UseReducerEx, UseEffectEx, UseRefEx, UseRef } from './ReactHooks';
+import {
+  UseState,
+  UseReducer,
+  UseEffect,
+  UseRef,
+  UseLayoutEffect,
+  UseImperativeHandle,
+  UseContext,
+} from "./ReactHooks";
 
 function App() {
-    return (
-      // <UseStateEx />
-      // <UseReducerEx/>
-      // <UseEffectEx/>
-      <UseRef/>
-    )
-  }
-
+  return (
+    // <UseState />
+    // <UseReducer/>
+    // <UseEffect/>
+    // <UseRef/>
+    // <UseLayoutEffect />
+    // <UseImperativeHandle />
+    <UseContext />
+  );
+}
 
 export default App;
