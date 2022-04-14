@@ -4,5 +4,11 @@
 
 * UseState
 * UseReducer 
+* UseContext
 * UseEffect
 * UseRef
+* UseLayoutEffect
+* UseImperativeHandle
+* UseMemo
+* UseCallBack
+

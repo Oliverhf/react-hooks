@@ -3,7 +3,7 @@ import { AppContext } from '.'
 
 const User = () => {
 
-const {username} = useContext(AppContext)
+const { username } = useContext(AppContext)
 
   return (
     <div>

@@ -8,6 +8,8 @@ import {
   UseLayoutEffect,
   UseImperativeHandle,
   UseContext,
+  UseMemo,
+  UseCallBack
 } from "./ReactHooks";
 
 function App() {
@@ -17,8 +19,10 @@ function App() {
     // <UseEffect/>
     // <UseRef/>
     // <UseLayoutEffect />
-    // <UseImperativeHandle />
-    <UseContext />
+    <UseImperativeHandle />
+    // <UseContext />
+    // <UseMemo />
+    // <UseCallBack />
   );
 }
 
