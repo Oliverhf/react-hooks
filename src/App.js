@@ -19,9 +19,9 @@ function App() {
     // <UseEffect/>
     // <UseRef/>
     // <UseLayoutEffect />
-    <UseImperativeHandle />
+    // <UseImperativeHandle />
     // <UseContext />
-    // <UseMemo />
+    <UseMemo />
     // <UseCallBack />
   );
 }
