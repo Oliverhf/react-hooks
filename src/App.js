@@ -14,14 +14,14 @@ import {
 
 function App() {
   return (
-    // <UseState />
+    <UseState />
     // <UseReducer/>
     // <UseEffect/>
     // <UseRef/>
     // <UseLayoutEffect />
     // <UseImperativeHandle />
     // <UseContext />
-    <UseMemo />
+    // <UseMemo />
     // <UseCallBack />
   );
 }
